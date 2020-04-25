@@ -13,7 +13,7 @@
           "options": {
             "outputPath": "dist",
             "index": "src/index.html",
-            "main": "src/main-input.ts",
+            "main": "src/main-output.ts",
             "tsConfig": "src/tsconfig.app.json",
             "polyfills": "src/polyfills.ts",
             "assets": [
